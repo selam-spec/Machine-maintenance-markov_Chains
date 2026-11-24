@@ -15,8 +15,6 @@ Each shift, the machine is in one of four states: Working, Degraded (still runni
 
 Under the preventive policy:
 
-State	Average stay	Then moves to	What it represents
-
 | State    | Average stay | Then moves to                       | What it represents                                              |
 |----------|--------------|-------------------------------------|-----------------------------------------------------------------|
 | Working  | ~20 shifts   | always Degraded                     | Machines wear gradually rather than failing without warning     |
