@@ -1,6 +1,3 @@
-Machine-maintenance-markov_Chains
-
-
 Modelling machine availability with a Markov chain
 
 The question
